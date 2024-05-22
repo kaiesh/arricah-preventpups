@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Putri"
+        },
+        "description": {
+            "type": "string",
+            "description": "Putri is a dog owned by a man in Sibang Kaja, and he came to the BPC sterilisation, though he was a little skeptical at first."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

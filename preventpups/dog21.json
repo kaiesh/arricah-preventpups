@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Mimpi"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mimpi was a brownish-golden dog, who was relatively small and liked to walk around while waiting."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

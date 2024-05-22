@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Mopi"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mopi had pretty bad skin around his neck area, and the owner is very grateful that BPC managed to clear it up."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

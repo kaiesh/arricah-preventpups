@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Manis"
+        },
+        "description": {
+            "type": "string",
+            "description": "Manis means sweet in Indonesian, and that is what her owner said Manis is like. She is a sweet black and white dog, who is not that old yet."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

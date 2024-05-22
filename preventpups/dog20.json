@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Mio"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mio actually managed to escape his cage, but luckily the vet team caught him before he walked out onto the main road."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Asu"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mimi's brother, Asu, was much more trusting and was quickly settled into the cage with his sister."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

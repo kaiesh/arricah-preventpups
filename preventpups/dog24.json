@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Scoby"
+        },
+        "description": {
+            "type": "string",
+            "description": "Scoby is a small brown dog, that had no problem settling in quickly while waiting at the Banjar."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

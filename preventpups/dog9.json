@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Rambo"
+        },
+        "description": {
+            "type": "string",
+            "description": "Rambo was brought in at the start of the day, and sterilised very quickly. BPC thinks he is less than 1 year old."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

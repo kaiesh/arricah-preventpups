@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Poppy"
+        },
+        "description": {
+            "type": "string",
+            "description": "She was found on the side of the road, and has been reported to have had lots of pups over her lifetime"
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog1.jpg"
+        }
+    }
+}

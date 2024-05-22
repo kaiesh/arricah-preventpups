@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Molly"
+        },
+        "description": {
+            "type": "string",
+            "description": "Molly was brought in by her owner, and since the owner was an old lady who couldn't afford it, she was very grateful for the free treatments her dog got."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

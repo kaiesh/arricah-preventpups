@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Moby"
+        },
+        "description": {
+            "type": "string",
+            "description": "Moby is a small brown dog who was taken extremely well care of after sterilisation, as the vet students who were volunteering made sure he was as comfortable as possible."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

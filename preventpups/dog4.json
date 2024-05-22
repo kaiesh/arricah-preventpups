@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Bumi"
+        },
+        "description": {
+            "type": "string",
+            "description": "He is a white dog, only 2 years old, but the owner knew he wouldn't be able to take care of any pups."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

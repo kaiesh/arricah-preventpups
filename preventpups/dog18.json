@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Mimi"
+        },
+        "description": {
+            "type": "string",
+            "description": "Mimi is a very timid and shy dog, and it took a while for her to stop being worried while she was waiting in the cage."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

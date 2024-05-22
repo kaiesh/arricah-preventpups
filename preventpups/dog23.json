@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Rocky"
+        },
+        "description": {
+            "type": "string",
+            "description": "It might not be very clear in his photo, but Rocky is at the bottom, hiding in the leaves."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}

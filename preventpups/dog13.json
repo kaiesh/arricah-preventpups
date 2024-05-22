@@ -1,0 +1,18 @@
+{
+    "title": "Prevent Pups Bali Project",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string",
+            "description": "Unknown Name"
+        },
+        "description": {
+            "type": "string",
+            "description": "This dog was caught after a lot of looking through quite a bit of the Banjar area, but luckily we found her, as her skin was not in great shape."
+        },
+        "image": {
+            "type": "string",
+            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+        }
+    }
+}
