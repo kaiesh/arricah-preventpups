@@ -12,7 +12,7 @@
         },
         "image": {
             "type": "string",
-            "description": "https://nft.arricah.com/preventpups/img/dog1.png"
+            "description": "https://nft.arricah.com/preventpups/img/dog1.jpg"
         }
     }
 }
