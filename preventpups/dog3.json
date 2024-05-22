@@ -8,11 +8,11 @@
         },
         "description": {
             "type": "string",
-            "description": "She is black and white dog, owned near Banjar Pane. The owner was very grateful towards Bali Pet Crusaders for sterilising her dog."
+            "description": "She is a black and white dog, owned near Banjar Pane. The owner was very grateful towards Bali Pet Crusaders for sterilising her dog."
         },
         "image": {
             "type": "string",
-            "description": "https://nft.arricah.com/preventpups/img/dog2.jpg"
+            "description": "https://nft.arricah.com/preventpups/img/dog3.png"
         }
     }
 }
